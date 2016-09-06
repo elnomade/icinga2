@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Icinga2SetupAgent", "Icinga2SetupAgent.csproj", "{A86F1159-66E8-4BDB-BF28-A2BDAF76517C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		MinSizeRel|x64 = MinSizeRel|x64
+		MinSizeRel|x86 = MinSizeRel|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+		RelWithDebInfo|x64 = RelWithDebInfo|x64
+		RelWithDebInfo|x86 = RelWithDebInfo|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A86F1159-66E8-4BDB-BF28-A2BDAF76517C}.Debug|x64.ActiveCfg = Debug|x64
+		{A86F1159-66E8-4BDB-BF28-A2BDAF76517C}.Debug|x64.Build.0 = Debug|x64
+		{A86F1159-66E8-4BDB-BF28-A2BDAF76517C}.Debug|x86.ActiveCfg = Debug|x86
+		{A86F1159-66E8-4BDB-BF28-A2BDAF76517C}.Debug|x86.Build.0 = Debug|x86
+		{A86F1159-66E8-4BDB-BF28-A2BDAF76517C}.MinSizeRel|x64.ActiveCfg = MinSizeRel|x64
+		{A86F1159-66E8-4BDB-BF28-A2BDAF76517C}.MinSizeRel|x64.Build.0 = MinSizeRel|x64
+		{A86F1159-66E8-4BDB-BF28-A2BDAF76517C}.MinSizeRel|x86.ActiveCfg = MinSizeRel|x86
+		{A86F1159-66E8-4BDB-BF28-A2BDAF76517C}.MinSizeRel|x86.Build.0 = MinSizeRel|x86
+		{A86F1159-66E8-4BDB-BF28-A2BDAF76517C}.Release|x64.ActiveCfg = Release|x64
+		{A86F1159-66E8-4BDB-BF28-A2BDAF76517C}.Release|x64.Build.0 = Release|x64
+		{A86F1159-66E8-4BDB-BF28-A2BDAF76517C}.Release|x86.ActiveCfg = Release|x86
+		{A86F1159-66E8-4BDB-BF28-A2BDAF76517C}.Release|x86.Build.0 = Release|x86
+		{A86F1159-66E8-4BDB-BF28-A2BDAF76517C}.RelWithDebInfo|x64.ActiveCfg = RelWithDebInfo|x64
+		{A86F1159-66E8-4BDB-BF28-A2BDAF76517C}.RelWithDebInfo|x64.Build.0 = RelWithDebInfo|x64
+		{A86F1159-66E8-4BDB-BF28-A2BDAF76517C}.RelWithDebInfo|x86.ActiveCfg = RelWithDebInfo|x86
+		{A86F1159-66E8-4BDB-BF28-A2BDAF76517C}.RelWithDebInfo|x86.Build.0 = RelWithDebInfo|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
